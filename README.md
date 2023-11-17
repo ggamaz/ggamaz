@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shengmin Song</h1>
-<h3 align="center">undergraduate in Central South University</h3>
+<h1 align="left">Hi 👋, I'm Shengmin Song</h1>
+<h3 align="right">undergraduate in Central South University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggamaz&label=Profile%20views&color=0e75b6&style=flat" alt="ggamaz" /> </p>
 
