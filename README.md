@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Shengmin Song</h1>
-<h3 align="left">undergraduate in Central South University</h3>
+<h3 align="left">studing in Central South University automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggamaz&label=Profile%20views&color=0e75b6&style=flat" alt="ggamaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ggamaz" alt="ggamaz" /></a> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **interesting things**
 
 - 📫 How to reach me **339452059@qq.com**
 
